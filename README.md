@@ -9,6 +9,8 @@ Retrieved the data From the Resources folder `lending_data.csv`,Import the data 
 ![image](https://user-images.githubusercontent.com/101225094/187978200-f73eb88c-0ead-4a88-b3ad-b16b61046950.png)
 ![image](https://user-images.githubusercontent.com/101225094/187978333-be6d5e49-f533-4bc4-a25f-0803643af6d4.png)
 ![image](https://user-images.githubusercontent.com/101225094/187978431-461c6522-3383-4b4a-a3d4-94ae645cb6e0.png)
+![image](https://user-images.githubusercontent.com/101225094/187978659-eb6b3347-10a9-460c-8d94-042759db0639.png)
+![image](https://user-images.githubusercontent.com/101225094/187978726-429802bf-f568-44a6-92b5-8d8b7782b432.png)
 
 
 
